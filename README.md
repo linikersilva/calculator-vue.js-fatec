@@ -1,0 +1,1 @@
+Um projeto de calculadora simples desenvolvido como parte de um trabalho para o curso de Análise e Desenvolvimento de Sistemas (ADS) na FATEC Franca. Esta calculadora, implementada utilizando Vue.js, é capaz de calcular expressões matemáticas que envolvem operações básicas como adição (+), subtração (-), multiplicação (*) e divisão (/).
